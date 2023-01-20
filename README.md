@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- [![@rohan_5002's Holopin board](https://holopin.me/rohan_5002)](https://www.holopin.io/@rohan_5002)
+
+
+ [![@rohan_5002's Holopin board](https://www.holopin.io/@rohan_5002#)](https://www.holopin.io/@rohan_5002)
