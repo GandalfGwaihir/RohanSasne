@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
- [![@rohan_5002's Holopin board](https://www.holopin.io/@rohan_5002#)](https://www.holopin.io/@rohan_5002)
+[![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
