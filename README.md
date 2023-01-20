@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My area of work is diversified into various domains, which mainly include **Full-Stack Web Development**, **Artificial Intelligence**, **Deep Learning**, **Blockchain** and solving crunch **Data Structures And Algorithm** problems. 
+- 👯 I’m looking forward to collaborate on open source projects.
+- In my spare time, I love to Binge watch webseries :), also quite chatty if you wannna have a convo :).
+
 -<h3> Tech-stack 📜</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
