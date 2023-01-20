@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - My area of work is diversified into various domains, which mainly include **Full-Stack Web Development**, **Artificial Intelligence**, **Deep Learning**, **Blockchain** and solving crunch **Data Structures And Algorithm** problems. 
 - 👯 I’m looking forward to collaborate on open source projects.
 - In my spare time, I love to Binge watch webseries :), also quite chatty if you wannna have a convo :).
+- - Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link]([https://drive.google.com/file/d/1vIky2PfUZKZYlUxHe4WQBovFoEpjIcwY/view](https://drive.google.com/file/d/1usoKTNWjwlD-uGe3chHQ3BzX5JsTk8kH/view?usp=sharing)))
 
 -<h3> Tech-stack 📜</h3>
 
