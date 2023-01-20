@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 - My area of work is diversified into various domains, which mainly include **Full-Stack Web Development**, **Artificial Intelligence**, **Deep Learning**, **Blockchain** and solving crunch **Data Structures And Algorithm** problems. 
 - 👯 I’m looking forward to collaborate on open source projects.
 - In my spare time, I love to Binge watch webseries :), also quite chatty if you wannna have a convo :).
-- - Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://drive.google.com/file/d/1UHvlBYrWS2VmyG4ROiCfFbHSxcjjD9Ni/view?usp=sharing))
+-  Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://drive.google.com/file/d/1UHvlBYrWS2VmyG4ROiCfFbHSxcjjD9Ni/view?usp=sharing))
 
 
--<h3> Tech-stack 📜</h3>
+<h3> Tech-stack 📜</h3>
+
+
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,6 +44,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<p>
+<p>
+<p>
 
 [![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
