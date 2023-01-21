@@ -44,8 +44,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<p>
-<p>
-<p>
+
+## 📊 Github Analytics
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=RohanSasne&theme=nightowl&border_radius=4.3&mode=weekly" alt="RohanSasne"/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RohanSasne&count_private=true&show_icons=true&theme=nightowl" /></td>
+  </tr>
+</table>
 
 [![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
