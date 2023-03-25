@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - My area of work is diversified into various domains, which mainly include **DevOps**, **Cloud**, **Full-Stack Web Development**  **Artificial Intelligence**, **Deep Learning** and solving crunch **Data Structures And Algorithm** problems. 
 - 👯 I’m looking forward to collaborate on open source projects.
 - In my spare time, I love to Binge watch webseries :), also quite chatty if you wannna have a convo :).
--  Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://drive.google.com/file/d/1UHvlBYrWS2VmyG4ROiCfFbHSxcjjD9Ni/view?usp=sharing))
+-  Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://docs.google.com/document/d/1TJn1g5yXoCHKPXZzDXASl0UZ6_qQZJsI/edit?usp=sharing&ouid=114774202429783954390&rtpof=true&sd=true))
 
 
 ## ⚡ Technologies
