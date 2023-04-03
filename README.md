@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <tr>
    
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=RohanSasne&theme=nightowl&border_radius=4.3&mode=weekly" alt="RohanSasne"/>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RohanSasne&count_private=true&show_icons=true&theme=nightowl" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohanSasne&count_private=true&show_icons=true&theme=nightowl" /></td>
   </tr>
 </table>
 
