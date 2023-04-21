@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/RohanSasne/RohanSasne/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif)
+![](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
 
 <!--
 **RohanSasne/RohanSasne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
