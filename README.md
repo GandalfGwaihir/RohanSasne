@@ -1,6 +1,6 @@
 ![](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
+### **Chase down your dreams and don't be fearful, let your faith be stronger than your fear ✨**
 
-### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
 <!--
 **RohanSasne/RohanSasne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - My area of work is diversified into various domains, which mainly include **DevOps**, **Cloud**, **Full-Stack Web Development**  **Artificial Intelligence**, **Deep Learning** and solving crunch **Data Structures And Algorithm** problems. 
 - 👯 I’m looking forward to collaborate on open source projects.
 - In my spare time, I love to Binge watch webseries :), also quite chatty if you wannna have a convo :).
@@ -69,3 +70,5 @@ Here are some ideas to get you started:
 </table>
 
 [![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
+
+### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
