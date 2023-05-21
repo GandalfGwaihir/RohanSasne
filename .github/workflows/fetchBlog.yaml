@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
-          USERNAME: 'SohamR' # Hashnode Username
+          USERNAME: 'rohansasne30' # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://rohansasne30.hashnode.dev/"
