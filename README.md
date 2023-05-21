@@ -72,6 +72,28 @@ Here are some ideas to get you started:
 [![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
 ## Checkout My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://rohansasne30.hashnode.dev//pushing-your-code-to-github" title="Pushing Your Code to GitHub: A Beginner's Guide to Share Your Code with the World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684520517928/2c8b3745-9d26-4519-8153-78700a797a54.jpeg" alt="Pushing Your Code to GitHub: A Beginner's Guide to Share Your Code with the World" width="250px" align="left" /></a>
+<a href="https://rohansasne30.hashnode.dev//pushing-your-code-to-github" title="Pushing Your Code to GitHub: A Beginner's Guide to Share Your Code with the World"><strong>Pushing Your Code to GitHub: A Beginner's Guide to Share Your Code with the World</strong></a>
+<div><strong>19 May 2023</strong> | <strong>Updated: 19 May 2023</strong></div>
+<br/> Imagine waking up one fine day with the determination to share your code with the entire world through open-source. Luckily, there's an incredible platform called GitHub that can turn your aspiration into a reality.
+GitHub, being a web-based platform... </p> <br/> <br/>
+<p align="left">
+<a href="https://rohansasne30.hashnode.dev//cloud-computing-showdown-aws-vs-azure-vs-gcp-comparing-the-top-three-cloud-providers" title="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681478176058/65130f74-1040-4442-aa15-79bf38d15a4b.webp" alt="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers" width="250px" align="left" /></a>
+<a href="https://rohansasne30.hashnode.dev//cloud-computing-showdown-aws-vs-azure-vs-gcp-comparing-the-top-three-cloud-providers" title="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers"><strong>Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers</strong></a>
+<div><strong>14 Apr 2023</strong></div>
+<br/> Introduction:
+Cloud computing has become a critical part of modern businesses, allowing them to store, process and analyze vast amounts of data quickly and cost-effectively. Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) ... </p> <br/> <br/>
+<p align="left">
+<a href="https://rohansasne30.hashnode.dev//monolithic-vs-microservices-architecture-which-architecture-style-reigns-supreme" title="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681056483830/0c32a3cf-98ef-425c-9f70-88b77b1f0b4b.png" alt="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?" width="250px" align="left" /></a>
+<a href="https://rohansasne30.hashnode.dev//monolithic-vs-microservices-architecture-which-architecture-style-reigns-supreme" title="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?"><strong>Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?</strong></a>
+<div><strong>9 Apr 2023</strong></div>
+<br/> As software systems grow in complexity, developers and architects are faced with the challenge of designing a robust and scalable architecture. Two popular architecture styles that have emerged in recent years are monolithic and microservices archite... </p> <br/> <br/>
+<p align="left">
+<a href="https://rohansasne30.hashnode.dev//git-vs-github-understanding-the-differences-and-choosing-the-right-tool-for-your-development-needs" title="Git vs GitHub: Understanding the Differences and Choosing the Right Tool for Your Development Needs"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/a4d5585289ad02e816452d72e154c854.jpeg" alt="Git vs GitHub: Understanding the Differences and Choosing the Right Tool for Your Development Needs" width="250px" align="left" /></a>
+<a href="https://rohansasne30.hashnode.dev//git-vs-github-understanding-the-differences-and-choosing-the-right-tool-for-your-development-needs" title="Git vs GitHub: Understanding the Differences and Choosing the Right Tool for Your Development Needs"><strong>Git vs GitHub: Understanding the Differences and Choosing the Right Tool for Your Development Needs</strong></a>
+<div><strong>7 Apr 2023</strong> | <strong>Updated: 9 Apr 2023</strong></div>
+<br/> Git and GitHub are two terms that are often used interchangeably, but they are actually two different things. Git is a distributed version control system, while GitHub is a web-based platform that provides hosting services for Git repositories. In th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
