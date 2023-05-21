@@ -69,7 +69,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![An image of @rohan_5002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohan_5002)](https://holopin.io/@rohan_5002)
 ## Checkout My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
