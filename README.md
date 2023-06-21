@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://rohansasne30.hashnode.dev//check-out-these-awesome-open-source-programs-you-can-apply-to" title="Check Out These Awesome Open Source Programs You Can Apply to!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684910014647/28e93d25-7529-4d10-889a-5c5c4f494ad6.png" alt="Check Out These Awesome Open Source Programs You Can Apply to!" width="250px" align="left" /></a>
 <a href="https://rohansasne30.hashnode.dev//check-out-these-awesome-open-source-programs-you-can-apply-to" title="Check Out These Awesome Open Source Programs You Can Apply to!"><strong>Check Out These Awesome Open Source Programs You Can Apply to!</strong></a>
-<div><strong>30 May 2023</strong> | <strong>Updated: 30 May 2023</strong></div>
+<div><strong>30 May 2023</strong> | <strong>Updated: 21 June 2023</strong></div>
 <br/> Why participate in such programs?
 Open Source is like a vast ocean, full of endless possibilities. Once you learn how to navigate its waters, there are no limits to the amazing accomplishments you can achieve. By diving into the Open Source community... </p> <br/> <br/>
 <p align="left">
