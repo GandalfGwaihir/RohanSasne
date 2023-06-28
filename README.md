@@ -101,11 +101,6 @@ GitHub, being a web-based platform... </p> <br/> <br/>
 <div><strong>14 Apr 2023</strong></div>
 <br/> Introduction:
 Cloud computing has become a critical part of modern businesses, allowing them to store, process and analyze vast amounts of data quickly and cost-effectively. Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rohansasne30.hashnode.dev//monolithic-vs-microservices-architecture-which-architecture-style-reigns-supreme" title="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681056483830/0c32a3cf-98ef-425c-9f70-88b77b1f0b4b.png" alt="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?" width="250px" align="left" /></a>
-<a href="https://rohansasne30.hashnode.dev//monolithic-vs-microservices-architecture-which-architecture-style-reigns-supreme" title="Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?"><strong>Monolithic vs Microservices Architecture: Which Architecture Style Reigns Supreme?</strong></a>
-<div><strong>9 Apr 2023</strong></div>
-<br/> As software systems grow in complexity, developers and architects are faced with the challenge of designing a robust and scalable architecture. Two popular architecture styles that have emerged in recent years are monolithic and microservices archite... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
