@@ -84,6 +84,11 @@ Here are some ideas to get you started:
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rohansasne.tech/)
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rohansasne30.hashnode.dev//why-containerization-of-applications-is-need-of-the-hour" title="Why Containerization of Applications is Need of the Hour"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688495784743/8e9af32c-559b-4b6e-a7cf-4f8ac843dd37.webp" alt="Why Containerization of Applications is Need of the Hour" width="250px" align="left" /></a>
+<a href="https://rohansasne30.hashnode.dev//why-containerization-of-applications-is-need-of-the-hour" title="Why Containerization of Applications is Need of the Hour"><strong>Why Containerization of Applications is Need of the Hour</strong></a>
+<div><strong>5 July 2023</strong></div>
+<br/> You might be hearing all the big words like Kubernetes, Docker, Containerization and whatnot!! At first glance, they might surely sound a little scary 😮‍💨 But trust me once you get the crux of what was the need to invent these new tools and technol... </p> <br/> <br/>
+<p align="left">
 <a href="https://rohansasne30.hashnode.dev//check-out-these-awesome-open-source-programs-you-can-apply-to" title="Check Out These Awesome Open Source Programs You Can Apply to!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684910014647/28e93d25-7529-4d10-889a-5c5c4f494ad6.png" alt="Check Out These Awesome Open Source Programs You Can Apply to!" width="250px" align="left" /></a>
 <a href="https://rohansasne30.hashnode.dev//check-out-these-awesome-open-source-programs-you-can-apply-to" title="Check Out These Awesome Open Source Programs You Can Apply to!"><strong>Check Out These Awesome Open Source Programs You Can Apply to!</strong></a>
 <div><strong>30 May 2023</strong> | <strong>Updated: 21 June 2023</strong></div>
@@ -95,12 +100,6 @@ Open Source is like a vast ocean, full of endless possibilities. Once you learn 
 <div><strong>19 May 2023</strong> | <strong>Updated: 19 May 2023</strong></div>
 <br/> Imagine waking up one fine day with the determination to share your code with the entire world through open-source. Luckily, there's an incredible platform called GitHub that can turn your aspiration into a reality.
 GitHub, being a web-based platform... </p> <br/> <br/>
-<p align="left">
-<a href="https://rohansasne30.hashnode.dev//cloud-computing-showdown-aws-vs-azure-vs-gcp-comparing-the-top-three-cloud-providers" title="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681478176058/65130f74-1040-4442-aa15-79bf38d15a4b.webp" alt="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers" width="250px" align="left" /></a>
-<a href="https://rohansasne30.hashnode.dev//cloud-computing-showdown-aws-vs-azure-vs-gcp-comparing-the-top-three-cloud-providers" title="Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers"><strong>Cloud Computing Showdown: AWS vs Azure vs GCP - Comparing the Top Three Cloud Providers</strong></a>
-<div><strong>14 Apr 2023</strong></div>
-<br/> Introduction:
-Cloud computing has become a critical part of modern businesses, allowing them to store, process and analyze vast amounts of data quickly and cost-effectively. Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
