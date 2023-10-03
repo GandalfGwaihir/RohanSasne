@@ -102,6 +102,6 @@ Open Source is like a vast ocean, full of endless possibilities. Once you learn 
 GitHub, being a web-based platform... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RohanSasne.RohanSasne)
