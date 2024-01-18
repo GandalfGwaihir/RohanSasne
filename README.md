@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pop!OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!--
 ## 📊 Github Analytics
  <table>
   <tr>
@@ -79,6 +80,7 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohanSasne&count_private=true&show_icons=true&theme=nightowl" /></td>
   </tr>
 </table>
+-->
 
 ## Checkout My Latest Blog Posts 👇
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rohansasne.tech/)
